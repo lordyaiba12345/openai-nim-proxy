@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
   'gpt-4': 'z-ai/glm4.7',
   'gpt-4-turbo': 'deepseek-ai/deepseek-v3.2',
-  'gpt-4o': 'z-ai/glm5',
+  'gpt-4o': 'z-ai/glm5.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
